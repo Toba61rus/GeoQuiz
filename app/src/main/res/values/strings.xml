@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="button_false">False</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="button_true">True</string>
+    <string name="answer_true">Correct!</string>
+    <string name="answer_false">Incorrect!</string>
+    <string name="question_novoshahtinsk">
+Does Novoshakhtinsk belong to the Rostov region?</string>
+    <string name="question_rostov_on_don_population">Is the population of Rostov-on-Don exceeding 1 million inhabitants?
+</string>
+    <string name="question_climate_rostov_on_don">
+In Rostov-on-Don, a temperate climate?</string>
+    <string name="question_south_mountainous">
+Does the south of Russia have a mountainous relief?</string>
+    <string name="question_largest_Rostov_on_don">Is Rostov-on-Don the largest city in the South of Russia?</string>
+    <string name="question_time_zone_rostov_region">In the Rostov region live in a time zone of +4 hours?
+</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="next">Next</string>
+    <string name="click_the_show_answer_button_to_view_the_comment">Click the SHOW ANSWER button to view the comment!</string>
+
+</resources>
